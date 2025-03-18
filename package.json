@@ -8,8 +8,8 @@
 		"eslint-plugin-simple-import-sort": "^12.1.1"
 	},
 	"peerDependencies": {
-		"eslint": "*",
-		"typescript": ">=5"
+		"eslint": "9.22.0",
+		"typescript": "^5.8.2"
 	},
 	"devDependencies": {
 		"typescript": "^5.8.2"
